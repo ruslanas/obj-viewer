@@ -1,0 +1,12 @@
+{
+  "name": "obj-viewer",
+  "version": "0.1.0",
+  "main": "obj-viewer.js",
+  "homepage": "https://github.com/ruslanas/obj-viewer",
+  "authors": [
+    "Ruslanas Balčiūnas <ruslanas.com@gmail.com>"
+  ],
+  "description": "",
+  "moduleType": [],
+  "license": "MIT"
+}
